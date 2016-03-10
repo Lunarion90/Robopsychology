@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="en"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude">    
+    <info>
+        <title>How to Become a Robopsychologist</title>
+        <subtitle>Robopsychology</subtitle>
+        <authorgroup>
+            <author>
+                <personname>
+                    <honorific>Dr</honorific>
+                    <surname>Bátfai</surname>
+                    <firstname>Norbert</firstname>        
+                </personname>    
+                <affiliation>
+                    <shortaffil>Asst Prof, IT Dept, UD</shortaffil>
+                    <jobtitle>Assistant professor</jobtitle>
+                    <orgname>University of Debrecen, Faculty of Informatics</orgname>
+                    <orgdiv>Department of Information Technology</orgdiv>
+                    <address>
+                        <email>batfai.norbert@inf.unideb.hu</email>
+                        <email>nbatfai@gmail.com</email>
+                    </address>
+                </affiliation>
+                <address>
+                    <street>Kassai út 26.</street>
+                    <city>Debrecen</city>
+                    <postcode>4028</postcode>
+                    <country>Hungary</country>
+                    <email>batfai.norbert@inf.unideb.hu</email>
+                    <otheraddr>
+                        <link xlink:href="https://github.com/nbatfai">https://github.com/nbatfai</link>
+                    </otheraddr>
+                </address>
+            </author>
+        </authorgroup>
+        <pubdate>2016</pubdate>
+    </info>
+    <xi:include href="introduction.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: introduction.xml is missing.</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+    <section>
+        <title>Robopsychology</title>
+        <para>
+        </para>
+    </section>
+    <xi:include href="whoiswho.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: whoiswho.xml is missing.</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>     
+    <xi:include href="bibliography.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: bibliography.xml is missing.</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+</article>

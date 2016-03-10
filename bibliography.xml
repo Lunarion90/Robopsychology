@@ -1,0 +1,136 @@
+<bibliography xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="en"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bibliography">
+        <title>Bibliography</title>       
+        <bibliodiv>
+            <title>Science Fiction</title>
+            <biblioentry>
+                <abbrev>Robbie</abbrev>
+                <biblioset relation="article">
+                    <title>Strange Playfellow</title>
+                    <authorgroup>
+                        <author>
+                            <personname>
+                                <firstname>Isaac</firstname>
+                                <surname>Asimov</surname>
+                            </personname>
+                        </author>
+                    </authorgroup>                    
+                    <publisher>
+                        <publishername>Super Science Stories</publishername>
+                    </publisher>
+                    <volumenum>1</volumenum>
+                    <pagenums>67-77</pagenums>
+                    <pubdate>1940</pubdate>
+                </biblioset>
+            </biblioentry>            
+        </bibliodiv>        
+        <bibliodiv>
+            <title>Robopsychology</title>
+            <biblioentry>
+                <abbrev>Libin&amp;Libin</abbrev>
+                <biblioset relation="article">
+                    <title>Person-robot interactions from the robopsychologists' point of view: the robotic psychology and robotherapy approach</title>
+                    <authorgroup>
+                        <author>
+                            <personname>
+                                <firstname>Alexander V.</firstname>
+                                <surname>Libin</surname>
+                            </personname>
+                        </author>
+                        <author>
+                            <personname>
+                                <firstname>Elena V.</firstname>
+                                <surname>Libin</surname>
+                            </personname>
+                        </author>
+                    </authorgroup>                    
+                    <publisher>
+                        <publishername>Proceedings of the IEEE</publishername>
+                    </publisher>
+                    <biblioid class="doi">10.1109/JPROC.2004.835366</biblioid>
+                    <volumenum>92/11</volumenum>
+                    <pagenums>1789-1803</pagenums>
+                    <pubdate>2004</pubdate>
+                </biblioset>
+            </biblioentry>            
+        </bibliodiv>
+        <bibliodiv>
+            <title>Developmental Robotics</title>
+            <biblioentry>
+                <abbrev>Samu</abbrev>
+                <biblioset relation="article">
+                    <title>A disembodied developmental robotic agent called Samu Bátfai</title>
+                    <authorgroup>
+                        <author>
+                            <personname>
+                                <firstname>Norbert</firstname>
+                                <surname>Bátfai</surname>
+                            </personname>
+                        </author>
+                    </authorgroup>                    
+                    <publisher>
+                        <publishername>eprint arXiv:1511.02889, 
+                            <link xlink:href="http://arxiv.org/abs/1511.02889">http://arxiv.org/abs/1511.02889</link></publishername>                        
+                    </publisher>
+                    <volumenum>abs/1511.02889</volumenum>
+                    <pubdate>2015</pubdate>
+                </biblioset>
+            </biblioentry>            
+            <biblioentry>
+                <abbrev>PrenatalSamu</abbrev>
+                <biblioset relation="article">
+                    <title>Samu is His Prenatal Development</title>
+                    <authorgroup>
+                        <author>
+                            <personname>
+                                <firstname>Norbert</firstname>
+                                <surname>Bátfai</surname>
+                            </personname>
+                        </author>
+                        <author>
+                            <personname>
+                                <firstname>Renátó</firstname>
+                                <surname>Besenczi</surname>
+                            </personname>
+                        </author>
+                    </authorgroup>                    
+                    <publisher>
+                        <publishername>submitted maniscript</publishername>                        
+                    </publisher>
+                    <pubdate>2016</pubdate>
+                </biblioset>
+            </biblioentry>            
+            <!--
+            <biblioentry>
+                <abbrev></abbrev>
+                <biblioset relation="article">
+                    <title></title>
+                    <authorgroup>
+                        <author>
+                            <personname>
+                                <firstname></firstname>
+                                <surname></surname>
+                            </personname>
+                        </author>
+                        <author>
+                            <personname>
+                                <firstname></firstname>
+                                <surname></surname>
+                            </personname>
+                        </author>
+                    </authorgroup>                    
+                    <publisher>
+                        <publishername></publishername>
+                    </publisher>
+                    <biblioid class="doi"></biblioid>
+                    <volumenum></volumenum>
+                    <pagenums></pagenums>
+                    <pubdate></pubdate>
+                </biblioset>
+            </biblioentry>            
+            
+        -->
+    </bibliodiv>
+</bibliography>
+

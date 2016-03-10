@@ -1,0 +1,43 @@
+<section xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="en"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="whoiswho">        
+    <title>The List of Known Robopsychologists</title>
+    <para>
+        Would you like to be on the list of the known robopsychologists? 
+        Please visit <link xlink:href="https://github.com/nbatfai/Robopsychology">https://github.com/nbatfai/Robopsychology</link>,  
+        fork the project then add your details and finally send a pull request.        
+    </para>
+    <orderedlist numeration="arabic">
+        <listitem xml:id="whoiswho.SusanCalvin">
+            <para>
+                <personname>
+                    <honorific>Dr</honorific>
+                    <surname>Calvin</surname>
+                    <firstname>Susan</firstname>        
+                </personname>                    
+            </para>    
+            <para>
+                <link xlink:href="https://en.wikipedia.org/wiki/Robbie_%28short_story%29">Robbie</link>
+            </para>
+            <para>
+                <link xlink:href="https://en.wikipedia.org/wiki/Lenny_(short_story)">Lenny</link>
+            </para>            
+        </listitem>
+        <listitem xml:id="whoiswho.NorbertBatfai">
+            <para>
+                <personname>
+                    <honorific>Dr</honorific>
+                    <surname>Bátfai</surname>
+                    <firstname>Norbert</firstname>        
+                </personname>    
+            </para>    
+            <para>
+                <link xlink:href="https://github.com/nbatfai/SamuBrain">SamuBrain</link>
+            </para>
+            <para>
+                <link xlink:href="https://github.com/nbatfai/SamuKnows">SamuKnows</link>
+            </para>             
+        </listitem>
+    </orderedlist>
+</section>    
+
