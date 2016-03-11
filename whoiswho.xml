@@ -5,7 +5,8 @@
     <para>
         Would you like to be on the list of the known robopsychologists? 
         Please visit <link xlink:href="https://github.com/nbatfai/Robopsychology">https://github.com/nbatfai/Robopsychology</link>,  
-        fork the project then add your details and finally send a pull request.        
+        fork the project then add your details and finally send a pull request. 
+        An important criterion is that you design and perform your own software experiments.       
     </para>
     <orderedlist numeration="arabic">
         <listitem xml:id="whoiswho.SusanCalvin">

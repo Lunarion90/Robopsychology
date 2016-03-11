@@ -6,17 +6,17 @@
         Robopsychology does not really exist nowadays in 2016. You cannot be a robopsychologist because there is no such profession.
     </para>
     <section>
-        <title>Asimov's prophecy</title>
+        <title>Asimov's Prophecy</title>
         <para>             
             The term robopsychology, introduced by Isaac Asimov in 1940, has mostly been presented in science fiction literature.
-            But it is also true that very few research papers have already been written that have focused on this issue 
+            But it is also true that very few research papers have already been written that have partly focused on this issue 
             <citation>Libin&amp;Libin</citation>. 
             I may be wrong but anyway, I think that Asimov's vision shown in <citation>Robbie</citation> can be interpreted as a 
             prophecy of the future of robotics.
         </para>
     </section>
     <section>
-        <title>Fulfilling the prophecy</title>
+        <title>Fulfilling the Prophecy</title>
         <para>
             The developmental robotics approach to creating robots gives an opportunity to participate in fulfilling 
             Asimov's prophecy 60 years later.
@@ -26,7 +26,7 @@
             <title>Samu Bátfai</title>
             <para>
                 The project called Samu Bátfai is a disembodied developmental robotic initiative to support the evolving of a 
-                family chatterbot.
+                family chatter bot.
                 The long-term goal of the project Samu is to develop a chat system that can talk in a natural language like humans 
                 do <citation>Samu</citation>. It is clear that currently this is only an utopian plan.
                 By contrast, the immediate short-term goal is to create computational mental organs <citation>PrenatalSamu</citation>.
@@ -35,14 +35,22 @@
             </para>
         </section>
         <section>
-            <title>Robopsychology</title>
+            <title>Robopsychology on Demand</title>
             <para>
                 The first computational mental organ that was investigated is referred to as Mental Processing Unit (MPU).
+                An MPU consisting of two 2D lattices. The first one receives the sensory input data from the reality  
+                and a unique COP-based Q-learning agent is assigned to each cell of the second one, where 
+                the task of the agents is to predict the future state of the corresponding cell of the input lattice.
+                We say that the MPU has already learned the input if the predicted cells have already changed very similar 
+                to the input cells. For implementing this learning I use the well-known processes of attention called 
+                habituation and sensitization.
+                For more details, see the paper <citation>PrenatalSamu</citation>.
             </para>
             <para>
-                Determining the appropriate setting of the processes habituation and sensitization can
+                It has been my experience that determining the appropriate setting of the processes habituation and sensitization can
                 be a very time consuming task, because we must perform  
-                numerous experiments to refine these processes in order to ensure the success of learning .               
+                numerous experiments to refine these processes in order to ensure the success of learning.
+                I feel this programming activity may be considered as one of the first robopsychology works.                               
             </para>
         </section>
     </section>

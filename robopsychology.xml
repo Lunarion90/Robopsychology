@@ -43,11 +43,13 @@
             </para>
         </xi:fallback>
     </xi:include> 
-    <section>
-        <title>Robopsychology</title>
-        <para>
-        </para>
-    </section>
+    <xi:include href="robopsycho.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: robopsycho.xml is missing.</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>     
     <xi:include href="whoiswho.xml">
         <xi:fallback>
             <para>
