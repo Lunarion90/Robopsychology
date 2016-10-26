@@ -79,3 +79,8 @@ https://github.com/nbatfai/SamuTuring
 
 Samu C. Turing
 https://github.com/nbatfai/SamuCTuring
+
+---
+
+ESAMU - Samu Entropy, Esport and Artificial Intelligence
+https://github.com/nbatfai/SamuEntropy
